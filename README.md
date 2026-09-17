@@ -5,6 +5,7 @@
   <h1>Lowkhas</h1>
 <a href="https://www.w3schools.com">This is a link</a>
 <p> Im just making sure that this works</p>
+<a href="https://www.w3schools.com">This is another link</a>
 
 
 </body>
